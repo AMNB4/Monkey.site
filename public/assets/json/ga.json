@@ -71,7 +71,6 @@
     "link": "https://ubg77.github.io/updatefaqs/subway-surfers-winter-holiday/",
     "error": false
   },
-
   {
     "name": "KourIo",
     "image": "/assets/images/icons/kio.jpg",
@@ -150,7 +149,6 @@
     "link": "https://ubg77.github.io/game131022/idle-miner/",
     "error": false
   },
-
   {
     "name": "Idle Mining Empire",
     "image": "/assets/images/icons/ime.webp",
@@ -163,28 +161,24 @@
     "link": "https://ubg77.github.io/game131022/idle-startup-tycoon/",
     "error": false
   },
-
   {
     "name": "Awesome Tanks 2",
     "image": "/assets/images/icons/at2.png",
     "link": "https://ubg98.github.io/AwesomeTanks2/",
     "error": false
   },
-
   {
     "name": "BasketBall Random",
     "image": "/assets/images/icons/bbr.png",
     "link": "https://tylerpalko.github.io/gamehub/basketrandom/",
     "error": false
   },
-
   {
     "name": "Basketbros",
     "image": "/assets/images/icons/bbs.jpeg",
     "link": "https://basketbros.io/",
     "error": false
   },
-
   {
     "name": "Adventure Drivers",
     "image": "/assets/images/icons/ad.jpg",
@@ -201,6 +195,30 @@
     "name": "Paper.io",
     "image": "/assets/images/icons/ppio.jpeg",
     "link": "https://paper-io.com/",
+    "error": false
+  },
+  {
+    "name": "Agar.io",
+    "image": "/assets/images/icons/agar.png",
+    "link": "https://agar.io/",
+    "error": false
+  },
+  {
+    "name": "Slither.io",
+    "image": "/assets/images/icons/slither.png",
+    "link": "https://slither.io/",
+    "error": false
+  },
+  {
+    "name": "Tetris",
+    "image": "/assets/images/icons/tetris.png",
+    "link": "https://tetris.com/play-tetris",
+    "error": false
+  },
+  {
+    "name": "Helix Jump",
+    "image": "/assets/images/icons/helix.png",
+    "link": "https://helix-jump.io/",
     "error": false
   }
 ]
