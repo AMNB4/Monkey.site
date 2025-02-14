@@ -1,5 +1,5 @@
 const DBNAME = 'SettingsDB';
-const LunarSettings = 'Lunar-Settings';
+const LunarSettings = 'Monkey-Settings';
 let db: IDBDatabase | undefined;
 let dbReady: Promise<void>;
 
