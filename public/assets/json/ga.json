@@ -279,36 +279,4 @@
     "name": "NeonRace",
     "image": "/assets/images/icons/neonrace.png",
     "link": "https://www.neonrace.com/",
-    "error": false
-  },
-  {
-    "name": "King of the Hill",
-    "image": "/assets/images/icons/koth.png",
-    "link": "https://www.y8.com/games/king_of_the_hill",
-    "error": false
-  },
-  {
-    "name": "Gartic.io",
-    "image": "/assets/images/icons/gartic.png",
-    "link": "https://gartic.io/",
-    "error": false
-  },
-  {
-    "name": "Tanki Online",
-    "image": "/assets/images/icons/tankionline.png",
-    "link": "https://tankionline.com/",
-    "error": false
-  },
-  {
-    "name": "Super Mario Bros",
-    "image": "/assets/images/icons/supermario.png",
-    "link": "https://supermariobros.io/",
-    "error": false
-  },
-  {
-    "name": "Super Smash Flash 2",
-    "image": "/assets/images/icons/ssf2.png",
-    "link": "https://www.smashflash2.com/",
-    "error": false
-  }
-]
+    "error
