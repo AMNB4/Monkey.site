@@ -166,7 +166,7 @@ if (star) {
       const nickname = prompt('Enter a nickname for this favorite:');
       if (nickname) {
         const favorites = JSON.parse(
-          localStorage.getItem('@lunar/favorites') || '[]'
+          localStorage.getItem('@Monkey/favorites') || '[]'
         );
         try {
           if ((await Settings.get('backend')) == 'sj') {
@@ -176,7 +176,7 @@ if (star) {
           }
           const newFav = { nickname, url: originalUrl };
           favorites.push(newFav);
-          localStorage.setItem('@lunar/favorites', JSON.stringify(favorites));
+          localStorage.setItem('@Monkey/favorites', JSON.stringify(favorites));
           console.debug(`Favorite "${nickname}" added successfully!`);
         } catch (error) {
           console.error('Error adding favorite:', error);
