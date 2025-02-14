@@ -220,5 +220,95 @@
     "image": "/assets/images/icons/helix.png",
     "link": "https://helix-jump.io/",
     "error": false
+  },
+  {
+    "name": "ZombsRoyale.io",
+    "image": "/assets/images/icons/zombs.png",
+    "link": "https://zombsroyale.io/",
+    "error": false
+  },
+  {
+    "name": "Among Us Online",
+    "image": "/assets/images/icons/amongus.png",
+    "link": "https://among-us.io/",
+    "error": false
+  },
+  {
+    "name": "Little Big Snake",
+    "image": "/assets/images/icons/littlebig.png",
+    "link": "https://littlebigsnake.com/",
+    "error": false
+  },
+  {
+    "name": "Skribbl.io",
+    "image": "/assets/images/icons/skribb.png",
+    "link": "https://skribbl.io/",
+    "error": false
+  },
+  {
+    "name": "Bloxorz",
+    "image": "/assets/images/icons/bloxorz.png",
+    "link": "https://www.y8.com/games/bloxorz",
+    "error": false
+  },
+  {
+    "name": "Wormax.io",
+    "image": "/assets/images/icons/wormax.png",
+    "link": "https://wormax.io/",
+    "error": false
+  },
+  {
+    "name": "Tank Trouble",
+    "image": "/assets/images/icons/tanktrouble.png",
+    "link": "https://www.tanktrouble.com/",
+    "error": false
+  },
+  {
+    "name": "Diep.io",
+    "image": "/assets/images/icons/diep.png",
+    "link": "https://diep.io/",
+    "error": false
+  },
+  {
+    "name": "Slope Run Game",
+    "image": "/assets/images/icons/slope.png",
+    "link": "https://www.slopegame.io/",
+    "error": false
+  },
+  {
+    "name": "NeonRace",
+    "image": "/assets/images/icons/neonrace.png",
+    "link": "https://www.neonrace.com/",
+    "error": false
+  },
+  {
+    "name": "King of the Hill",
+    "image": "/assets/images/icons/koth.png",
+    "link": "https://www.y8.com/games/king_of_the_hill",
+    "error": false
+  },
+  {
+    "name": "Gartic.io",
+    "image": "/assets/images/icons/gartic.png",
+    "link": "https://gartic.io/",
+    "error": false
+  },
+  {
+    "name": "Tanki Online",
+    "image": "/assets/images/icons/tankionline.png",
+    "link": "https://tankionline.com/",
+    "error": false
+  },
+  {
+    "name": "Super Mario Bros",
+    "image": "/assets/images/icons/supermario.png",
+    "link": "https://supermariobros.io/",
+    "error": false
+  },
+  {
+    "name": "Super Smash Flash 2",
+    "image": "/assets/images/icons/ssf2.png",
+    "link": "https://www.smashflash2.com/",
+    "error": false
   }
 ]
